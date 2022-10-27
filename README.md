@@ -21,6 +21,7 @@ I'm Kavin!
 
 ## ✍️ One of my favourite quotes
 _Veni Vidi Vici_
-<br>  
+<br> 
   
-[![](https://visitcount.itsvg.in/api?id=k2s09&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=k2s09&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)  
+ 
