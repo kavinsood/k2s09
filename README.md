@@ -1,5 +1,4 @@
-### Hey There 👋
-I'm Kavin!
+### Hey There 👋 I'm Kavin!
 
 # 💫 About Me:
 🔭 I'm currently working on my [website](https://www.kavinsood.com) and studying Science and Math.<br>🌱 I'm currently learning Rust, Typescript, and ML-AI.<br>💬 Ask me about Java, Web Development, Linux & FOSS.<br>⚡Fun Fact: I'm weirdly interested in aesthetic design, typography, cybersecurity, and semiconductor electronics. Also, I'm 6' 2".<br>👑 I'm the Information Technology Captain at my School, and Founder of our flagship Tech Event, [SHISTECH](https://www.shis.tech).
