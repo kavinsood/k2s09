@@ -19,5 +19,5 @@ I'm Kavin!
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=k2s09&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-## ✍️ One of my favourite quotes
+## ✍️ Quotes
 _Veni Vidi Vici_
