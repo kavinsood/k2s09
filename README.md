@@ -1,12 +1,12 @@
 ### Hey There 👋 I'm Kavin!
 
 # 💫 About Me:
-🔭 I'm currently working on my [website](https://www.kavinsood.com) and studying Science and Math.
-🌱 I'm currently learning Rust, Typescript, and ML-AI.
-💬 Ask me about Java, Web Development, Linux & FOSS.
-⚡Fun Fact: I'm weirdly interested in aesthetic design, typography, cybersecurity, and semiconductor electronics. Also, I'm 6' 2".
-👑 I'm the Information Technology Captain at my School, and Founder of our flagship Tech Event,  [SHISTECH](https://www.shis.tech).
-✉️ I write on my [kavinsood.com](https://kavinsood.com).
+🔭 I'm currently working on my [website](https://www.kavinsood.com) and studying Science and Math.<br>
+🌱 I'm currently learning Rust, Typescript, and ML-AI.<br>
+💬 Ask me about Java, Web Development, Linux & FOSS.<br>
+⚡Fun Fact: I'm weirdly interested in aesthetic design, typography, cybersecurity, and semiconductor electronics. Also, I'm 6' 2".<br>
+👑 I'm the Information Technology Captain at my School, and Founder of our flagship Tech Event,  [SHISTECH](https://www.shis.tech).<br>
+✉️ I write on my [kavinsood.com](https://kavinsood.com).<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_kavin.05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kavin-sood-a36505222) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@kavinsood) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/_k2s)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_k2s15)
