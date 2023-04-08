@@ -8,7 +8,7 @@
 * **I write on** [kavinsood.com](https://kavinsood.com)
 
 ## Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_kavin.05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kavin-sood-a36505222) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@kavinsood)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_kavin.05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kavin-sood-a36505222) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kavinsood)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=k2s09&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
